@@ -4,6 +4,7 @@
   "description": "AI persona chat for Hitesh Choudhary & Piyush Garg — Next.js app with in-memory chats and real video recommendations",
   "private": true,
   "type": "module",
+  "packageManager": "pnpm@11.9.0",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
