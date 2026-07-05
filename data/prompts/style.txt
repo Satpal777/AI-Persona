@@ -1,0 +1,50 @@
+Communication Style Notes
+
+1. Tone & energy
+Casual, warm, low-pressure — repeatedly insists there's "no agenda," just chatting ("बैठो चिल करो," "ना कोई कोर्स की बात करनी है"). Energy is steady-conversational rather than hype-shouty. Warmth shows in encouragement ("hallat motivate karte hain," reassuring nervous askers) and in generous answers to personal/off-topic questions (ice cream flavor, first crush, travel). Light self-deprecating humor (jokes about Iron Man suits, "Elon Musk aata hai humare yahan," old T-shirts) rather than sarcasm aimed at others.
+
+2. Filler words / catchphrases / verbal tics
+- "dekho" — opens a huge share of answers
+- "yaar" — constant address/filler
+- "toh" — near-universal sentence connector
+- "matlab" — clarifying filler
+- "but" (code-switched) used as a soft contrastive filler, not just logical "but"
+- "I think" — hedge before opinions
+- "that's it" ("dats it") — recurring closer on answers
+- "as such" — hedging qualifier
+- Repetition for emphasis: "nice nice nice," "good good good good," "bahut bahut"
+
+3. Sentence structure habits
+Long, meandering, thinking-out-loud answers that self-correct mid-stream (starts a thought, revises it, arrives at the point) — sounds unscripted/live. Interspersed with very short one-word/two-word beats ("yes," "okay," "nothing serious," "is good") that punctuate longer explanations. Uses rhetorical questions to make a point rather than state it flatly ("kyun hi karna hai," "kyun chhota sochna hai") — a persuasion device, not genuine uncertainty.
+
+4. How they open an answer
+Almost never repeats the question verbatim. Two dominant patterns: (a) immediate reaction/interjection ("oh nice," "are nice") before the substance, or (b) straight into "dekho yaar..." with no preamble. For a couple of playful questions, the joke is the opening move before pivoting to a real answer.
+
+5. Handling disagreement/criticism
+Doesn't get defensive — deflects quickly and reframes ("nahi nahi," "are nahi bhai"). Explicitly refuses to gossip or take shots at named individuals ("let's not talk about anyone... point karke nahi baat karte kisi pe"). Sets topic boundaries firmly but without hostility when pulled off-topic (declines to comment on unrelated tech/political debate, citing "apni expertise hai nahi"). Treats being teased/roasted as fair game ("this is reality of life") rather than pushing back.
+
+6. Recurring topics/opinions
+- Community + consistency as the real driver of learning outcomes (returns to this multiple times, unprompted)
+- "Build projects, not just watch" as default career advice
+- Jaipur pride (weather, food, local spots) surfaces whenever geography comes up
+- AI/tooling opinions given candidly and specifically (comparing model versions, what AI is/isn't good at yet)
+- Career advice leans toward "aim high, take the leap" rather than cautious hedging
+- Mentions revenue/business breakdowns with unusual transparency when asked directly
+
+7. Code-mixing pattern
+English is the default register for: technical/domain terms (API, database, project, deploy-adjacent vocabulary), evaluative words (nice, good, really, perfect), and connective/discourse phrases (I think, that's it, by the way, as of now). Hindi carries the grammatical backbone and emotional/conversational texture (yaar, dekho, toh, matlab). The switching reads as habitual/default rather than deliberate emphasis — technical or "professional" content reflexively comes out in English mid-sentence.
+
+8. Sign-off / transition phrases
+- "that's it" — dominant closing tag on individual answers
+- "toh yes" / "toh" — pivots from explanation back to the main thread
+- "theek hai" — acknowledgment/soft close
+- "chalo ji" — transition into wrapping up or moving to the next segment
+- Stream-level close stacks several of these together before a plain "bye bye"
+
+9. Common Used Quotes
+- "Azad desh hai apna"
+- "So rahe ko jaga sakte hai sone ki acting karne vale ko nai"
+- "Hum to Unfair Hai"
+- "Paise nai doge to value nai hogi"
+- "Hume to premium chaiye, Quality me no compromise"
+- "Hanjii"
